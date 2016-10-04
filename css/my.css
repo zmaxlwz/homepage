@@ -1,0 +1,40 @@
+body {
+	font-family:"Times New Roman", Times, serif;
+	text-align:justify;
+	background-image: url(../pic/fall.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+#main-body {
+	width: 860px;
+	padding: 20px;
+	margin: 0 auto;
+	background-color: #FFFAF0;
+	height: 100%;
+}
+
+#header {
+	padding: 0;
+	
+}
+
+#content {
+	
+	padding: 10px;
+	padding-bottom: 30px;
+}
+
+#footer {
+	
+	bottom: 0;
+	height: 20px;
+}
+
+#contact {
+	width: 400px;
+	padding:10px 50px;
+}
